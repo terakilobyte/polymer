@@ -1,0 +1,26 @@
+{
+  "name": "polymer-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/terakilobyte/polymer-boilerplate",
+  "authors": [
+    "Nathan Leniz <terakilobyte@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-theme": "*",
+    "polymer": "Polymer/polymer#~0.5.5",
+    "core-icon": "Polymer/core-icon#~0.5.5",
+    "core-icons": "Polymer/core-icons#~0.5.5",
+    "core-iconset": "Polymer/core-iconset#~0.5.5",
+    "core-iconset-svg": "Polymer/core-iconset-svg#~0.5.5"
+  }
+}
